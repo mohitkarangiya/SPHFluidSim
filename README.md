@@ -32,4 +32,5 @@ spatial grid hashing for both cpu and gpu variant of the sim.
 - Unity 3D (compatible with version 2022.3 and above)
 - GPU that supports Compute Shaders
 
-  ![GIF Showing simulation running on GPU with 131k particles at 400 fps](https://myoctocat.com/assets/images/base-octocat.svg)
+![GIF Showing simulation running on GPU with 131k particles at 400 fps](https://github.com/mohitkarangiya/SPHFluidSim/blob/main/GIF/test.gif?raw=true)
+Simulation running on GPU with 131k particles at 400 fps
